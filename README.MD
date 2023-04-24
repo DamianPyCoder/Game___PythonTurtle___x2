@@ -25,7 +25,7 @@ The tarjet of this game is to eat the small turtles that appear randomly on the 
 #
 #
 ## TENIS
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/TURTLE/TENIS/tenis1.png)
+![](https://github.com/DamianPyCoder/PythonTurtle__Game_x2__Snake_Tenis/blob/main/TENIS/tenis1.png)
 
 #### WHAT'S THE GAME ABOUT.
 The classic game of tennis in which two people return a ball to each other using a racket. If you can't return it and it hits the bottom of your wall, then the opponent scores a point. This game is scheduled for two players.
